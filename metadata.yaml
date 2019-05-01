@@ -1,5 +1,8 @@
 _repo: The-Motor-Boys-on-Thunder-Mountain-Or-The-Treasure-Chest-of-Blue-Rock_59340
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59340-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Clarence
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59340#The-Motor-Boys-on-Thunder-Mountain-Or-The-Treasure-Chest-of-Blue-Rock
 gutenberg_issued: '2019-04-24'
 gutenberg_type: Text
 identifiers:
